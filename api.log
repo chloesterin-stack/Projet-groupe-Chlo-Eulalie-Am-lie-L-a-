@@ -1,0 +1,4 @@
+2026-09-16 15:09:39,438 [INFO] Appel de l'API : https://api.frankfurter.app/latest?from=EUR&to=USD
+2026-09-16 15:09:39,587 [INFO] Réponse reçue avec succès.
+2026-09-16 15:09:39,590 [INFO] Appel de l'API : https://api.frankfurter.app/n-importe-quoi
+2026-09-16 15:09:39,883 [ERROR] Erreur HTTP 404 : Not Found
